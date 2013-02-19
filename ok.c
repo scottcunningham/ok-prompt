@@ -12,7 +12,7 @@ void sighand(int sig)
 
 int main(int argc, char* argv[])
 {
-	assert(argc == 1); //no arguments because you can't call this program, it fucking does it itself whether you want it to or not. DEAL WITH IT.
+	assert(argc == 1); //no arguments because you can't call this program, it fucking does it itself whether you want it to or not. DEAL WITH IT, for more info see scott.netsoc.ie/deal.html
 
 	char input[50];
 
